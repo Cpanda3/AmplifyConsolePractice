@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "backendtest116e603a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
